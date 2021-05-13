@@ -5,7 +5,7 @@ May, 2021
  ---     | ---      | ---       | ---      | ---    | ---      | ---
  none     | none      | none       | none      | none    | ±        | +
  &#013; + | -         | -          | ±         | -       | -        | ∓
- &#013; - | +         | none       | none      | none    | none     | none
+ &#013; - | +         | +.         | none      | none    | none     | none
  &#013; none | none      | none       | none      | none    | none     | none
  &#013; none | none      | none       | none      | none    | none     | none
  &#013; none | none      | none       | none      | none    | none     | none
